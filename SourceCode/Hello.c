@@ -12,3 +12,7 @@ void doSomethingAtRemote() {
 int main(){
 	hello();
 }
+
+void doThingsYouLike() {
+	printf("Like the world!!");
+}
